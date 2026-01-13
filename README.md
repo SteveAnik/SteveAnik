@@ -8,11 +8,14 @@
 
 *Passionate about empowering others through technology*
 
-[![Website](https://img.shields.io/badge/Website-steveadhikari.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://steveadhikari.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-adhikari-225816190/)
-[![Email](https://img.shields.io/badge/Email-steve@steveadhikari.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steve@steveadhikari.com)
-[![Reddit](https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteveAnik/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developersteve2025/)
+<p align="center">
+  <a href="https://img.shields.io/badge/Website-steveadhikari.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://steveadhikari.com"/></a>
+  <a href="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-adhikari-225816190/"></a>
+  <a href="https://img.shields.io/badge/Email-steve@steveadhikari.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steve@steveadhikari.com"></a>
+  <a href="https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteveAnik/"></a>
+  <a href="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developersteve2025/"></a>
+</p>
+
 
 </div>
 
@@ -20,7 +23,7 @@
 
 ### 💫 About Me
 
-I'm passionate about delivering high-quality design, development, and technology solutions tailored to your needs. With experience in web and graphic design, web development, photo and video production, AV development, and network/server consulting, I offer a versatile skill set to bring your ideas to life.
+I'm passionate about delivering high-quality design, development, and technology solutions tailored to your needs. With experience in AI Researching & Development, UI/UX Development, Software Engineering, Server & Networking Consultanting, I offer a versatile skill set to bring your ideas to life.
 
 🔬 **Currently exploring:** AI research and development - how intelligent systems can improve user experiences, optimize workflows, and solve real-world problems
 
