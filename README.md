@@ -20,7 +20,7 @@
 
 ### 💫 About Me
 
-I'm passionate about delivering high-quality design, development, and technology solutions tailored to your needs. With experience in web and graphic design, web development, photo and video production, AV development, and network/server consulting, I offer a versatile skill set to bring your ideas to life.
+I'm passionate about delivering high-quality design, development, and technology solutions tailored to your needs. With experience in AI Researching & Development, Server & Networking Consultanting, UI/UX Development, and Software Engineering, I offer a versatile skill set to bring your ideas to life.
 
 🔬 **Currently exploring:** AI research and development - how intelligent systems can improve user experiences, optimize workflows, and solve real-world problems
 
@@ -102,7 +102,5 @@ I'm always open to collaboration and new opportunities. Whether you need a moder
 <div align="center">
 
 *"Transforming ideas into tangible results through technology and creativity"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
 </div>
