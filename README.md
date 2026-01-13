@@ -58,13 +58,6 @@ I'm passionate about delivering high-quality design, development, and technology
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Builder.io](https://img.shields.io/badge/Builder.io-000000?style=for-the-badge&logo=builder.io&logoColor=white)
 
-#### **Specializations**
-- 🤖 **AI Development:** Experience building AI servers for chatbots, text-to-image generation, and companion apps (hardware/software)
-- 🌐 **Networking:** Skilled in configuring and maintaining secure, high-performance networks and servers
-- 🎨 **Design:** Web and graphic design with modern tools
-- 📹 **Media Production:** Photo and video production
-- 🔧 **AV Development:** Audio-visual development solutions
-
 #### **Other Skills**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
@@ -77,15 +70,6 @@ I'm passionate about delivering high-quality design, development, and technology
 
 ---
 
-### 🎯 What I Offer
-
-- 🌐 **Modern Website Development** - Responsive, performant web applications
-- 🎨 **Creative Media Solutions** - Compelling visual content and multimedia
-- 🤖 **Smart AI Integration** - Intelligent systems for improved user experiences
-- 🔒 **Network & Server Consulting** - Secure, high-performance infrastructure
-- 📊 **Strategic Consulting** - Technology solutions that drive business success
-
----
 
 ### 🤝 Let's Connect!
 
