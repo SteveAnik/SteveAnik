@@ -1,5 +1,3 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQF7MFXfuZghIA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726846386274?e=2147483647&v=beta&t=tQL_F5t4H6XcYk_VXQmaIEmDzfWUTlKOGikUwrFXu88)
-
 <div align="center">
 
 ## 👋 Hi there, I'm Steve Adhikari!
