@@ -78,20 +78,6 @@ I'm passionate about delivering high-quality design, development, and technology
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ### 🤝 Let's Connect!
 
 I'm always open to collaboration and new opportunities. Whether you need a modern website, creative media, or smart AI integration — I'm here to help!
