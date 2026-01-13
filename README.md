@@ -8,14 +8,11 @@
 
 *Passionate about empowering others through technology*
 
-<p align="center">
-  <a href="https://img.shields.io/badge/Website-steveadhikari.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://steveadhikari.com"/></a>
-  <a href="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-adhikari-225816190/"></a>
-  <a href="https://img.shields.io/badge/Email-steve@steveadhikari.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steve@steveadhikari.com"></a>
-  <a href="https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteveAnik/"></a>
-  <a href="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developersteve2025/"></a>
-</p>
-
+[![Website](https://img.shields.io/badge/Website-steveadhikari.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://steveadhikari.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-adhikari-225816190/)
+[![Email](https://img.shields.io/badge/Email-steve@steveadhikari.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steve@steveadhikari.com)
+[![Reddit](https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteveAnik/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developersteve2025/)
 
 </div>
 
@@ -23,7 +20,7 @@
 
 ### 💫 About Me
 
-I'm passionate about delivering high-quality design, development, and technology solutions tailored to your needs. With experience in AI Researching & Development, UI/UX Development, Software Engineering, Server & Networking Consultanting, I offer a versatile skill set to bring your ideas to life.
+I'm passionate about delivering high-quality design, development, and technology solutions tailored to your needs. With experience in web and graphic design, web development, photo and video production, AV development, and network/server consulting, I offer a versatile skill set to bring your ideas to life.
 
 🔬 **Currently exploring:** AI research and development - how intelligent systems can improve user experiences, optimize workflows, and solve real-world problems
 
@@ -49,6 +46,7 @@ I'm passionate about delivering high-quality design, development, and technology
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
 #### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -68,6 +66,16 @@ I'm passionate about delivering high-quality design, development, and technology
 - 🎨 **Design:** Web and graphic design with modern tools
 - 📹 **Media Production:** Photo and video production
 - 🔧 **AV Development:** Audio-visual development solutions
+
+#### **Other Skills**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-5C2D91?style=for-the-badge&logo=microservices&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS_Products-00C4CC?style=for-the-badge&logo=salesforce&logoColor=white)
+![Backend](https://img.shields.io/badge/High_Performance_Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Custom_Full_Stack-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Automation](https://img.shields.io/badge/Business_Automation-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white)
 
 ---
 
